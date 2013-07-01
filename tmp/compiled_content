@@ -1,4 +1,4 @@
-{:	data{	I"/:ET{:default{	:	lastI"t<!DOCTYPE HTML>
+{:	data{	I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -10,16 +10,11 @@
   </head>
   <body>
     <div id="main">
-      <h1 id="a-first-level-header">A First Level Header</h1>
+      <h1 id="my-personal-site">My Personal Site</h1>
 
-<h2 id="a-second-level-header">A Second Level Header</h2>
+<h2 id="about-randy">About Randy</h2>
 
-<p>Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.</p>
-
-<p>The quick brown fox jumped over the lazy
-dog’s back.</p>
+<p>I have a BS in computer science, MS in Software Engineering and 60% on my PHD in Information Technology. </p>
 
 <h3 id="header-3">Header 3</h3>
 
@@ -51,18 +46,13 @@ dog’s back.</p>
     </div>
   </body>
 </html>
-;T:rawI"xA First Level Header
+;T:rawI"4My Personal Site
 ====================
 
-A Second Level Header
+About Randy
 ---------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
-
-The quick brown fox jumped over the lazy
-dog’s back.
+I have a BS in computer science, MS in Software Engineering and 60% on my PHD in Information Technology. 
 
 ### Header 3
 
@@ -70,16 +60,11 @@ dog’s back.
 > 
 > This is the second paragraph in the blockquote.
 >
-> ## This is an H2 in a blockquote;T:preI"<h1 id="a-first-level-header">A First Level Header</h1>
+> ## This is an H2 in a blockquote;T:preI"�<h1 id="my-personal-site">My Personal Site</h1>
 
-<h2 id="a-second-level-header">A Second Level Header</h2>
+<h2 id="about-randy">About Randy</h2>
 
-<p>Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.</p>
-
-<p>The quick brown fox jumped over the lazy
-dog’s back.</p>
+<p>I have a BS in computer science, MS in Software Engineering and 60% on my PHD in Information Technology. </p>
 
 <h3 id="header-3">Header 3</h3>
 
